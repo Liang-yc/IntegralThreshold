@@ -1,8 +1,8 @@
 # IntegralThreshold
 Adaptive Thresholding Using the Integral Image.
 
-Based on https://github.com/phryniszak/AdaptiveIntegralThresholding Converted to Python.
-For more details, please read this papaer [Adaptive Thresholding Using the Integral Image](https://www.researchgate.net/publication/220494200_Adaptive_Thresholding_using_the_Integral_Image).
+Based on https://github.com/phryniszak/AdaptiveIntegralThresholding Converted to Python.</br>
+For more details, please read this papaer [Adaptive Thresholding Using the Integral Image](https://www.researchgate.net/publication/220494200_Adaptive_Thresholding_using_the_Integral_Image).</br>
 
 This method can preserve more image details as the table shows.  
 <table>
