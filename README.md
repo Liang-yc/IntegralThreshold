@@ -6,15 +6,15 @@ For more details, please read this papaer [Adaptive Thresholding Using the Integ
 
 This method can preserve more image details as the table shows.  
 <table>
-<thead><tr><th>image</th><th>OTSU thresholding</th></tr></thead>
+<thead><tr><th>test image</th><th>OTSU Thresholding</th></tr></thead>
         <tr>
-            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
+            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/IntegralThreshold/blob/master/testimage.jpg" ></a></td>
             <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/IntegralThreshold/blob/master/otsu_results.jpg" ></a></td>
         </tr>
-  <tr><th>image</th><th>OTSU thresholding</th></tr></thead>
+  <tr><th>Adaptive Thresholding</th><th>Adaptive Thresholding Using the Integral Image</th></tr></thead>
         <tr>
-            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/images4readme/blob/master/red_plate.JPG" ></a></td>
-            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/IntegralThreshold/blob/master/otsu_results.jpg" ></a></td>
+            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/IntegralThreshold/blob/master/adaptive_results.jpg" ></a></td>
+            <td><a href=""><img width="100%" style="max-width: 30%;max-height:30%;" alt="" src="https://github.com/Liang-yc/IntegralThreshold/blob/master/results.jpg" ></a></td>
         </tr>
 </table>
 
