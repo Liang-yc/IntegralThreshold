@@ -18,4 +18,4 @@ This method can preserve more image details as the table shows.
         </tr>
 </table>
 
-The code is simple but the speed is insanely slow when the image is very large; and I use [numba](http://numba.pydata.org/) to speed up. The original code consumes more than 3 minutes for processing this test immage while it only costs about 1 seconds with numba.
+The code is simple but the speed is insanely slow when the image is very large; and I use [numba](http://numba.pydata.org/) to speed up. The original code consumes more than 3 minutes for processing this test image while it only costs about 1 seconds with numba.
